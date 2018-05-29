@@ -4,3 +4,4 @@ update developer branch2
 update developer branch3
 update developer branch4
 goto AAA
+goto dev
